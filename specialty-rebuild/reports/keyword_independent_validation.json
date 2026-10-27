@@ -1,0 +1,256 @@
+{
+  "passed": true,
+  "errors": [],
+  "notes": [],
+  "keyword_count": 158707,
+  "trace_rows": 158707,
+  "counts": {
+    "原词迁移": 158477,
+    "新增自然词": 230,
+    "明确更名": 588,
+    "完整现名保留并缩短后缀": 3
+  },
+  "all_source_bids_and_links_inherited": true,
+  "effective_keyword_state_preserved": true,
+  "all_new_ids_blank": true,
+  "global_same_term_match_duplicates": 0,
+  "renamed_samples": [
+    [
+      "76896770735",
+      "重庆交通学院学报投稿",
+      "重庆交通大学学报(自然科学版)投稿",
+      "重庆交通大学学报(自然科学版)"
+    ],
+    [
+      "76896809748",
+      "重庆交通学院学报期刊发表",
+      "重庆交通大学学报(自然科学版)期刊发表",
+      "重庆交通大学学报(自然科学版)"
+    ],
+    [
+      "76896824884",
+      "道路交通与安全投稿",
+      "交通工程投稿",
+      "交通工程"
+    ],
+    [
+      "76896743250",
+      "道路交通与安全期刊发表",
+      "交通工程期刊发表",
+      "交通工程"
+    ],
+    [
+      "76896754428",
+      "现代冶金发表",
+      "现代交通与冶金材料发表",
+      "现代交通与冶金材料"
+    ],
+    [
+      "76896770506",
+      "现代冶金投稿",
+      "现代交通与冶金材料投稿",
+      "现代交通与冶金材料"
+    ],
+    [
+      "76896743264",
+      "城市公用事业期刊发表",
+      "交通与港航期刊发表",
+      "交通与港航"
+    ],
+    [
+      "76896797846",
+      "水上消防投稿",
+      "水上安全投稿",
+      "水上安全"
+    ],
+    [
+      "76896825394",
+      "港工技术发表",
+      "港口航道与近海工程发表",
+      "港口航道与近海工程"
+    ],
+    [
+      "76896770593",
+      "港工技术投稿",
+      "港口航道与近海工程投稿",
+      "港口航道与近海工程"
+    ],
+    [
+      "76896770928",
+      "国外铁道车辆投稿",
+      "智慧轨道交通投稿",
+      "智慧轨道交通"
+    ],
+    [
+      "76896753951",
+      "中国农机化杂志社投稿",
+      "中国农机化学报杂志社投稿",
+      "中国农机化学报"
+    ],
+    [
+      "76896802293",
+      "遗传学报投稿",
+      "Journal of Genetics and Genomics投稿",
+      "Journal of Genetics and Genomics"
+    ],
+    [
+      "76896810069",
+      "中国病毒学发表",
+      "Virologica Sinica发表",
+      "Virologica Sinica"
+    ],
+    [
+      "76896764283",
+      "生物化学与生物物理学报发表",
+      "Acta Biochimica et Biophysica Sinica发表",
+      "Acta Biochimica et Biophysica Sinica"
+    ]
+  ],
+  "long_english_current_name_samples": [
+    [
+      "76896802293",
+      "遗传学报投稿",
+      "Journal of Genetics and Genomics投稿",
+      "Journal of Genetics and Genomics"
+    ],
+    [
+      "76896810069",
+      "中国病毒学发表",
+      "Virologica Sinica发表",
+      "Virologica Sinica"
+    ],
+    [
+      "76896764283",
+      "生物化学与生物物理学报发表",
+      "Acta Biochimica et Biophysica Sinica发表",
+      "Acta Biochimica et Biophysica Sinica"
+    ],
+    [
+      "76896761385",
+      "植物分类学报期刊发表",
+      "Journal of Systematics and Evolution投稿",
+      "Journal of Systematics and Evolution"
+    ],
+    [
+      "76896815881",
+      "动物学报投稿",
+      "Current Zoology投稿",
+      "Current Zoology"
+    ],
+    [
+      "76896742438",
+      "动物学报期刊发表",
+      "Current Zoology期刊发表",
+      "Current Zoology"
+    ],
+    [
+      "76896770424",
+      "催化学报投稿",
+      "Chinese Journal of Catalysis投稿",
+      "Chinese Journal of Catalysis"
+    ],
+    [
+      "76896791261",
+      "催化学报期刊发表",
+      "Chinese Journal of Catalysis期刊发表",
+      "Chinese Journal of Catalysis"
+    ],
+    [
+      "76896845506",
+      "高能物理与核物理发表",
+      "Chinese Physics C发表",
+      "Chinese Physics C"
+    ],
+    [
+      "76896741885",
+      "中国物理C投稿",
+      "Chinese Physics C投稿",
+      "Chinese Physics C"
+    ],
+    [
+      "76896816599",
+      "中国物理C期刊发表",
+      "Chinese Physics C期刊发表",
+      "Chinese Physics C"
+    ],
+    [
+      "76896764236",
+      "化学物理学报发表",
+      "Chinese Journal of Chemical Physics发表",
+      "Chinese Journal of Chemical Physics"
+    ],
+    [
+      "76896801147",
+      "数学物理学报(英文版)发表",
+      "Acta Mathematica Scientia发表",
+      "Acta Mathematica Scientia"
+    ],
+    [
+      "76896780665",
+      "畜牧与生物技术杂志(英文版)投稿",
+      "Journal of Animal Science and Biotechnology",
+      "Journal of Animal Science and Biotechnology"
+    ],
+    [
+      "76896770698",
+      "中西医结合学报投稿",
+      "Journal of Integrative Medicine投稿",
+      "Journal of Integrative Medicine"
+    ]
+  ],
+  "known_noneligible_entity_findings": [],
+  "industry_keyword_counts": {
+    "交通工程": 1131,
+    "其他专业领域": 27731,
+    "农业与环境": 10996,
+    "医学护理": 28895,
+    "工程造价与设计": 184,
+    "建筑施工": 3321,
+    "教育教学": 11227,
+    "机械与自动化": 5113,
+    "水利水电": 1110,
+    "法律与公共管理": 2168,
+    "电力与电气": 2973,
+    "经济与企业管理": 6317,
+    "计算机与信息": 4808,
+    "财会与金融": 2840,
+    "通用期刊咨询": 49893
+  },
+  "subject_count": 94,
+  "new_term_samples": [
+    "交通运输投稿咨询",
+    "交通运输期刊投稿",
+    "交通运输职称论文投稿",
+    "公路工程投稿咨询",
+    "公路工程职称论文投稿",
+    "道路桥梁投稿咨询",
+    "道路桥梁期刊投稿",
+    "道路桥梁职称论文投稿",
+    "铁路工程投稿咨询",
+    "铁路工程期刊投稿",
+    "铁路工程论文投稿",
+    "铁路工程职称论文投稿",
+    "有机化学投稿咨询",
+    "有机化学论文投稿",
+    "有机化学职称论文投稿",
+    "史学理论及史学史投稿咨询",
+    "史学理论及史学史期刊投稿",
+    "史学理论及史学史论文投稿",
+    "史学理论及史学史职称论文投稿",
+    "气象学投稿咨询",
+    "气象学论文投稿",
+    "气象学职称论文投稿",
+    "构造地质学投稿咨询",
+    "构造地质学期刊投稿",
+    "构造地质学论文投稿",
+    "构造地质学职称论文投稿",
+    "基础数学投稿咨询",
+    "基础数学期刊投稿",
+    "基础数学论文投稿",
+    "基础数学职称论文投稿"
+  ],
+  "classifier_basis": "文本/附件标题主办线索推断，非知网官方学科分类",
+  "official_online_metadata_revalidated": false,
+  "live_search_volume_verified": false,
+  "main_csv_sha256": "d796e115b128237c268123ebc38f9a56cb8b72eec3292014e64a2f1ce9a83bb7"
+}

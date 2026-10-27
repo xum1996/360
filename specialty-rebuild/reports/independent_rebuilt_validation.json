@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "files": [
+    {
+      "path": "/workspace/360_materials/rebuild/output/360_rebuilt_materials.csv",
+      "rows": 167798,
+      "types": {
+        "推广计划": 15,
+        "推广组": 2269,
+        "关键词": 158707,
+        "创意": 6807
+      },
+      "sha256": "d796e115b128237c268123ebc38f9a56cb8b72eec3292014e64a2f1ce9a83bb7"
+    }
+  ],
+  "total_types": {
+    "推广计划": 15,
+    "推广组": 2269,
+    "关键词": 158707,
+    "创意": 6807
+  },
+  "unique_plans": 15,
+  "unique_groups": 2269,
+  "dynamic_substitution_checks": 476121,
+  "max_bytes": {
+    "创意标题": 44,
+    "创意描述1": 40,
+    "创意描述2": 28,
+    "双描述拼接": 68,
+    "全组动态标题": 43
+  },
+  "all_new_ids_blank": true,
+  "plan_default_paused": true,
+  "client_import_executed": false,
+  "important": "原模板未包含删除操作字段；本校验不证明新增按名称识别或客户端实测导入，必须独立保留旧结构删除清单。"
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "errors": [],
+  "split_files_equal_full": true,
+  "traced_keywords": 158707,
+  "retained_original": 158477,
+  "added": 230,
+  "source_bid_and_urls_preserved": true,
+  "original_matches_preserved": true,
+  "effective_source_states_preserved": true,
+  "effective_paused_keywords_expected": 24527,
+  "effectively_paused_sources_unexpectedly_activated": 0,
+  "added_words_with_paused_source_reference": 0,
+  "old_plan_delete_ids_verified": 27,
+  "old_group_delete_ids_verified": 311,
+  "online_delete_executed": false,
+  "client_import_executed": false
+}
