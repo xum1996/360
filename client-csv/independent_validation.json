@@ -1,0 +1,73 @@
+{
+  "passed": true,
+  "errors": [],
+  "source_keyword_rows": 196524,
+  "retained_keyword_rows": 178981,
+  "removed_keyword_rows": 17543,
+  "deletion_list_rows": 17543,
+  "output_types": {
+    "推广计划": 27,
+    "推广组": 133,
+    "关键词": 178981,
+    "创意": 3225
+  },
+  "all_retained_keyword_fields_unchanged": true,
+  "protected_fields_unchanged": true,
+  "no_pause_output": true,
+  "creative_count": 3225,
+  "dynamic_keyword_coverage": 3937598,
+  "max_bytes": {
+    "创意标题": 45,
+    "创意描述1": 26,
+    "创意描述2": 28,
+    "全组动态": 43
+  },
+  "natural_examples": [
+    {
+      "keyword": "妇产科副主任医师发表SCI论文要求",
+      "existed_in_source": true,
+      "retained": true
+    },
+    {
+      "keyword": "上海护理职称论文投稿",
+      "existed_in_source": true,
+      "retained": true
+    },
+    {
+      "keyword": "正高级工程师职称论文投稿要求",
+      "existed_in_source": false,
+      "retained": null
+    },
+    {
+      "keyword": "电气工程论文投稿咨询",
+      "existed_in_source": false,
+      "retained": null
+    },
+    {
+      "keyword": "论文怎么发表在期刊上",
+      "existed_in_source": true,
+      "retained": true
+    },
+    {
+      "keyword": "护理副高职称论文投稿",
+      "existed_in_source": true,
+      "retained": true
+    },
+    {
+      "keyword": "工程造价论文投稿",
+      "existed_in_source": true,
+      "retained": true
+    },
+    {
+      "keyword": "一般期刊发表文章多长时间",
+      "existed_in_source": true,
+      "retained": true
+    }
+  ],
+  "known_excluded_resource_violations": [],
+  "main_csv_sha256": "46135cfb5a482b4f80272e318c926545c506acb11d8510025b34be77c6215e59",
+  "offline_only": true,
+  "client_import_executed": false,
+  "online_deletion_executed": false,
+  "deletion_interpretation": "已直接从本版主CSV移除；未登录线上账户，不能声称线上已删除"
+}

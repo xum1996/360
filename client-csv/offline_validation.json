@@ -1,0 +1,27 @@
+{
+  "source": "/workspace/360_materials/input/source.csv",
+  "target": "/workspace/360_materials/csv_cleanup/output/01_清理后客户端物料.csv",
+  "full": true,
+  "rows": 182366,
+  "types": {
+    "推广计划": 27,
+    "推广组": 133,
+    "关键词": 178981,
+    "创意": 3225
+  },
+  "creative_count": 3225,
+  "dynamic_substitution_checks": 3937598,
+  "max_bytes": {
+    "创意标题": 45,
+    "创意描述1": 26,
+    "创意描述2": 28,
+    "标题动态最大": 43,
+    "标题动态含括号保守最大": 45
+  },
+  "errors": [],
+  "warnings": [],
+  "passed": true,
+  "sha256": "46135cfb5a482b4f80272e318c926545c506acb11d8510025b34be77c6215e59",
+  "client_import_executed": false,
+  "important": "省略原关键词行不构成线上删除；无官方/客户端实测不能据此称100%兼容"
+}
