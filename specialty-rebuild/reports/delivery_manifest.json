@@ -1,0 +1,26 @@
+{
+  "updated_date": "2026-10-28",
+  "csv_sha256": "0a72ce086030b264ceb6640b73372ebbc3df1b8e191e22f16f76857436458b98",
+  "files": {
+    "360_rebuilt_materials.csv": "0a72ce086030b264ceb6640b73372ebbc3df1b8e191e22f16f76857436458b98",
+    "README.md": "519c5f0c12dfdd6151530238baf123998ea99883f47ee7d7402e80f435675ddf",
+    "reports/additional_removed_keywords.csv": "2d3902c4e15d84f02771481f47d7011eea467e5ba773b79e1712c8dcd69c564c",
+    "reports/creative_limited_edit_audit.csv": "1f89b84d1cb29b815e06dfd888bcb9af59cfa233e388cd35e0703bec9b25ae95",
+    "reports/creative_original_reuse_trace.csv": "9bc7ccdb530953ff2b38a878760611059fab9718d72ab38384d7d642c2e71705",
+    "reports/delivery_contract_validation.json": "bf31b2b1c227c2442f77c36ffc645a9412949d1512dc524c32e273fab25c7ae5",
+    "reports/independent_limited_edit_validation.json": "12b45f7f56b4c9ca406105b0c411b6f56d11f5f901bc3d3803c96b423578ffdf",
+    "reports/keyword_migration_audit.csv": "074b17aa4060b2c67f2b409846b5b15dae26991cf9ddb0b874778d4ecf7303aa",
+    "reports/merged_duplicate_keywords.csv": "e242d0a1b0d56e73b2b067fd85fd2d855b78e41a9e2c08b556c54e5fb1fa3adf",
+    "reports/new_structure_summary.csv": "1dbc1434f80327a81727739a421313b3e70eff92268c3f63f8ee4f82d84cd7ec",
+    "reports/nine_creatives_per_group.csv": "8630175d940366f492f0529938fcc1e4bc0fbadaefcf0b376c1eb05d544bcf53",
+    "reports/original_control_profiles.json": "9d67e0d23396279ca55ff337ab30117cb6048a5c3b36bbb86bd3f0ccf7737ff8",
+    "reports/rebuild_stats.json": "c08200c88db542ce951fe3068a467e8605b1a1cfa3cb9a3065fa62fb05ddae08",
+    "split/01_new_plans.csv": "508552a0aa78c61f7c1a0789184673e75eeb1e345b122c7f5e3ea028a235245f",
+    "split/02_new_groups.csv": "55c397bfcc98262553b717d69b2fa2d0bb57617a2e845f581c78514682d7c308",
+    "split/03_new_keywords.csv": "6776942da7757e419e64532fb436905cebd22a6dee130d68f3183db24f00a6d8",
+    "split/04_new_creatives.csv": "236842b25b65a5aea2870751198cd437fa80782e1c1d7ae19e5d19f2276c92cc"
+  },
+  "client_import_executed": false,
+  "old_structure_deleted": false,
+  "ready_to_delete_old_structure": false
+}

@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "columns": 45,
+  "original_headers_preserved": true,
+  "counts": {
+    "推广计划": 15,
+    "推广组": 2269,
+    "关键词": 158707,
+    "创意": 20421
+  },
+  "data_rows": 181412,
+  "encoding": "GB18030, no BOM",
+  "line_endings": "CRLF",
+  "new_ids_blank": true,
+  "all_new_plans_paused": true,
+  "all_name_parent_links_valid": true,
+  "approved_noncreative_rows_unchanged": true,
+  "approved_noncreative_row_count": 160991,
+  "csv_sha256": "0a72ce086030b264ceb6640b73372ebbc3df1b8e191e22f16f76857436458b98",
+  "client_import_executed": false,
+  "online_deletion_executed": false,
+  "scope": "离线文件结构及已授权计划、组、词的保留检查；不证明营销声明真实性或客户端实导成功"
+}

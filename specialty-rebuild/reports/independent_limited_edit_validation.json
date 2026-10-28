@@ -1,0 +1,48 @@
+{
+  "copy_trim_valid": true,
+  "nine_unique": true,
+  "length_valid": true,
+  "original_url_state_preserved": true,
+  "new_ids_blank": true,
+  "claim_truth_verified": false,
+  "ready_delete": false,
+  "authorized_edit_and_structure_passed": true,
+  "passed": true,
+  "errors": [],
+  "creative_rows": 20421,
+  "groups": 2269,
+  "field_limits": "strict GBK 45/70/70",
+  "max_bytes": {
+    "创意标题": 45,
+    "创意描述1": 70,
+    "创意描述2": 66,
+    "创意标题_dynamic_including_braces": 45,
+    "创意描述1_dynamic_including_braces": 70
+  },
+  "dynamic_field_keyword_checks": 2090857,
+  "unique_original_source_ids": 19,
+  "final_text_unverified_claim_counts": {
+    "time_unverified": 16087
+  },
+  "source_risk_counts_not_final_verdict": {
+    "time_unverified": 19949,
+    "qualification_scope_unverified": 15647
+  },
+  "claims_semantics_and_relevance_passed": null,
+  "client_import_executed": false,
+  "online_deletion_executed": false,
+  "meaning": "Only two authorized text operations, exact original URL/state inheritance and 9 unique combos were checked. Source advertising promises/relevance remain separate; a structural pass is not complete compliance or authority to delete old plans.",
+  "csv_sha256": "0a72ce086030b264ceb6640b73372ebbc3df1b8e191e22f16f76857436458b98",
+  "trace_sha256": "9bc7ccdb530953ff2b38a878760611059fab9718d72ab38384d7d642c2e71705",
+  "trace_column_map": {
+    "plan": "新计划",
+    "group": "新组",
+    "source_id": "source_creative_id",
+    "title": "新标题",
+    "desc1": "新描述1",
+    "desc2": "新描述2"
+  },
+  "normalized_nine_unique": true,
+  "normalization_rule": "去除Unicode标点和空格，英文casefold后按最终三字段组合复核",
+  "final_claim_scan_note": "正则扫描包含通配词中的搜索用词；原文固定表述待核项目请以来源追踪表为准"
+}

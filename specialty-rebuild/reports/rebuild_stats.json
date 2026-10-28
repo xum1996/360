@@ -7,7 +7,7 @@
   "new_keywords": 158707,
   "new_plans": 15,
   "new_groups": 2269,
-  "new_creatives": 6807,
+  "new_creatives": 20421,
   "normalized_or_renamed_source_rows": 4145,
   "renamed_retained_keywords": 588,
   "new_plan_status": "暂停",
@@ -15,8 +15,8 @@
   "low_intent_groups": 238,
   "all_new_ids_blank": true,
   "empty_required_runtime_fields": false,
-  "old_plan_delete_count": 27,
-  "old_group_delete_count": 311,
+  "old_plan_delete_count": 0,
+  "old_group_delete_count": 0,
   "group_max_keywords": 100,
   "max_groups_per_plan": 537,
   "industry_keywords": {
@@ -67,9 +67,36 @@
   "max_bytes": {
     "plan_name": 18,
     "group_name": 27,
-    "keyword": 43
+    "keyword": 43,
+    "创意标题": 45,
+    "创意描述1": 70,
+    "创意描述2": 66,
+    "创意标题_dynamic_including_braces": 45,
+    "创意描述1_dynamic_including_braces": 70
   },
-  "dynamic_substitution_checks": 476121,
+  "dynamic_substitution_checks": 2090857,
   "client_import_tested": false,
-  "online_deletion_executed": false
+  "online_deletion_executed": false,
+  "contains_creative_rows": true,
+  "scope": "专业计划、组、关键词保留；每组9条最初原创意，仅已有通配词替换和实际超长精简",
+  "new_groups_without_creative_rows": 0,
+  "material_rows": 181412,
+  "unique_source_creatives_used": 19,
+  "every_group_has_9_unique": true,
+  "wildcards_existing_only": true,
+  "non_overlength_text_rewritten": false,
+  "original_urls_and_states_inherited": true,
+  "claim_truth_verified": false,
+  "ready_to_delete_old_structure": false,
+  "old_structure_deleted": false,
+  "client_import_executed": false,
+  "final_unverified_claim_creatives": {
+    "原文资质或服务范围待核": 16006,
+    "原文定性审稿或见刊速度待核": 16004
+  },
+  "field_trim_count": 25524,
+  "csv_sha256": "0a72ce086030b264ceb6640b73372ebbc3df1b8e191e22f16f76857436458b98",
+  "authorized_edit_technical_validation_passed": true,
+  "normalized_nine_unique": true,
+  "delivery_updated_date": "2026-10-28"
 }
